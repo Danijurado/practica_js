@@ -60,5 +60,4 @@ async function obtenerUsuarioAsync(id) {
   
   main();
 
-  console.log(obtenerUsuarioAsync(1));
 
