@@ -102,3 +102,7 @@ game.pointWonBy(2)
 
 game.getCurrentRoundScore();
 
+/*
+Intento de simulacion de torneo, 
+me he atascado y no he conseguido resolver el problema, mando
+lo que tengo hecho.*/
